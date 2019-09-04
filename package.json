@@ -1,0 +1,25 @@
+{
+  "name": "testisa",
+  "version": "1.0.0",
+  "description": "test hw11 - notetaker",
+  "main": "connection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomK1429/testisa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomK1429/testisa/issues"
+  },
+  "homepage": "https://github.com/ThomK1429/testisa#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.17.1"
+  }
+}
